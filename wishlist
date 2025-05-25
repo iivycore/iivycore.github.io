@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Birthday Wishlist 🎀</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>💖 My Wishlist 💖</h1>
+  <div class="wishlist-grid">
+    <a href="https://example.com/item1" target="_blank">
+      <img src="wishlist-imgs/item1.jpg" alt="Item 1">
+    </a>
+    <a href="https://example.com/item2" target="_blank">
+      <img src="wishlist-imgs/item2.jpg" alt="Item 2">
+    </a>
+    <a href="https://example.com/item3" target="_blank">
+      <img src="wishlist-imgs/item3.jpg" alt="Item 3">
+    </a>
+    <!-- Add more items as needed -->
+  </div>
+</body>
+</html>
